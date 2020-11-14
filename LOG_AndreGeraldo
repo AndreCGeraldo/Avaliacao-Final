@@ -1,0 +1,269 @@
+    1  ls
+    2  vid
+    3  is
+    4  utube
+    5  whatsapp
+    6  cd xxxx
+    7  cd
+    8  ls
+    9  cd
+   10  cd _til
+   11  cd -
+   12  history
+   13  git status
+   14  history i grep docker
+   15  history : grep
+   16  clear
+   17  clear
+   18  clear
+   19  pwd
+   20  mkdir
+   21  mkdir 
+   22  mkdir ~/quicktypeorm/youtube
+   23  cd ...
+   24  cd
+   25  cd
+   26  npm init-y
+   27  git config --global user.name "André Geraldo"
+   28  git config --list
+   29  git config --global user.email "andrecruz2007@hotmail.com"
+   30  git config --li
+   31  git config --liit
+   32  git config --list
+   33  git --version
+   34  git init
+   35  ls
+   36  ls -la
+   37  ls
+   38  status
+   39  git status
+   40  git add package-lock.json 
+   41  gis status
+   42  git status
+   43  git add package.json 
+   44  git add tsconfig.json 
+   45  git status
+   46  git add  .gitignore
+   47  git status
+   48  touch .gitignore
+   49  git status
+   50  echo "node_modules/" > .gitignore 
+   51  git status
+   52  git add .gitignore 
+   53  git status 
+   54  git commit -m "Adiciona configuração inicial do projeto"
+   55  git status
+   56  git add
+   57  git status
+   58  git add.
+   59  git status
+   60  git add .
+   61  git status
+   62  git commit -m "Cria base do projeto"
+   63  git status
+   64  clean
+   65  lin
+   66  limp
+   67  git clean
+   68  git status
+   69  git-clean
+   70  clean
+   71  git push
+   72  git remote add origin https://github.com/AndreCGeraldo/Engenharia-de-Software.git
+   73  git push -u origin main
+   74  git push -u origin master
+   75  git push -u origin master
+   76  git status
+   77  npm i -g gitmoji-cli
+   78  npm i -g gitmoji-cli
+   79  npm i -g gitmoji-cli
+   80  history
+   81  git status
+   82  ls
+   83  git comit
+   84  sit status
+   85  git status
+   86  ls
+   87  git add .
+   88  git status
+   89  git add.
+   90  git status
+   91  git add html.png 
+   92  git add index.html 
+   93  git status
+   94  ls
+   95  history
+   96  ls
+   97  git add.
+   98  git add .
+   99  git status
+  100  ls
+  101  git add.
+  102  git add .
+  103  git init
+  104  git status
+  105  git status
+  106  git status
+  107  ls
+  108  git status
+  109  git init
+  110  git status
+  111  git add .
+  112  git status
+  113  git comit -m "Atividade_2"
+  114  git status
+  115  git help
+  116  git help add
+  117  git commit -m "Atividade_2"
+  118  git status
+  119  git commit
+  120  ls
+  121  git status
+  122  clean
+  123  git status
+  124  cat .git/
+  125  git status
+  126  ls
+  127  npm i -g gitmoji-cli
+  128  git init
+  129  ls
+  130  git add .
+  131  git status
+  132  gitmoji -c
+  133  npm i -g gitmoji-cli
+  134  gitmoji -c
+  135  git commit
+  136  npm i -g gitmoji-cli
+  137  git status
+  138  gitmoji -i
+  139  gitmoji -i
+  140  npm i -g gitmoji-cli
+  141  gitmoji -i
+  142  npx gitmoji -i
+  143  gitmoji -c
+  144  git commit
+  145  git commit
+  146  ls
+  147  git init
+  148  git status
+  149  git commit
+  150  npx gitmoji -c
+  151  git status
+  152  npx git commit
+  153  npx gitmoji -c
+  154  git status
+  155  history
+  156  git push
+  157  git remote add origin https://github.com/AndreCGeraldo/Engenharia-de-Software.git
+  158  git push -u origin master
+  159  git push -u origin main
+  160  git push -u origin master
+  161  git commit -m "Atividade_2"
+  162  npx git push -u origin master
+  163  git push
+  164  git push -u origin master
+  165  git remote add origin https://github.com/AndreCGeraldo/Engenharia-de-Software.git
+  166  git remote add Atividade_2 https://github.com/AndreCGeraldo/Engenharia-de-Software.git
+  167  git push -u Atividade_2 master
+  168  git push
+  169  git push -u Atividade_2 main
+  170  git push
+  171  git status
+  172  git push
+  173  git remote add origin https://github.com/AndreCGeraldo/Engenharia-de-Software.git
+  174  git push -u origin master
+  175  git push
+  176  git remote add origin https://github.com/AndreCGeraldo/Engenharia-de-Software.git
+  177  git push -u origin master
+  178  git remote add origin git remote add origin https://github.com/AndreCGeraldo/Atividade_2.git
+  179  git push -u origin master
+  180  git push
+  181  git remote add origin git remote add origin https:
+  182  git push -u origin_2 master
+  183  git push -u origin_2 main
+  184  git push
+  185  git push -u origin master
+  186  git push 
+  187  git commit -m "Atividade_2"
+  188  git status
+  189  git push
+  190  git remote add origin https://github.com/AndreCGeraldo/Atividade-Pr-tica-2.git
+  191  git remote add atividade https://github.com/AndreCGeraldo/Atividade-Pr-tica-2.git
+  192  git push -u atividade master
+  193  git commit -m "Atividade_2"
+  194  npx git commit -m "Atividade_2"
+  195  ls
+  196  git init
+  197  git status
+  198  git add .
+  199  git status
+  200  git commit
+  201  git status
+  202  gitmoji -c
+  203  npx gitmoji -c
+  204  git commit
+  205  git status
+  206  git push
+  207  git remote add origin https://github.com/AndreCGeraldo/Atividade-Pr-tica-2.git
+  208  git push -u origin master
+  209  git banch
+  210  git branch
+  211  git branch
+  212  history
+  213  git branch
+  214  git init
+  215  ls
+  216  git add .
+  217  git status
+  218  gitmoji -c
+  219  npx gitmoji -c
+  220  git branch
+  221  git flow feature star Sum
+  222  git feature star Sum
+  223  git finish
+  224  git status
+  225  git branch
+  226  git flow init
+  227  git branch
+  228  git status
+  229  git flow feature star Sum
+  230  git flow feature start Sum
+  231  touch Sum
+  232  git add .
+  233  git commit -m 'adiciona funcionalidade de soma'
+  234  git branch
+  235  git status
+  236  git flow feature finish Sum
+  237  git branch
+  238  git status
+  239  git flow feature start Sub
+  240  touch Sub
+  241  git add .
+  242  git commit -m 'adiciona funcionalidade de subtração'
+  243  git flow feature finish Sub
+  244  git flow feature start Mult
+  245  touch Mult
+  246  git add .
+  247  git commit -m 'adiciona funcionalidade de multiplicação'
+  248  git flow feature finish Mult
+  249  git flow feature start Div
+  250  touch Div
+  251  git add .
+  252  git commit -m 'adiciona funcionalidade de divisão'
+  253  git flow feature finish Div
+  254  git status
+  255  git branch
+  256  git flow release start 1.0.0
+  257  git branch
+  258  git flow release finish 1.0.0
+  259  git branch
+  260  git master
+  261  git restore
+  262  git master restore
+  263  restore
+  264  git status
+  265  git checkout master
+  266  git status
+  267  git branc
+  268  git branch
+  269  history >LOG_AndreGeraldo
