@@ -1,0 +1,3 @@
+function sub() {
+    soma = n1 * n2;
+} console.log(soma);
