@@ -1,15 +1,15 @@
-function sum() {
-    soma = n1 + n2;
-} console.log(soma);
+function sum(){
+    //TODO: Implementar soma
+}
 
-function sub() {
-    soma = n1 - n2;
-} console.log(soma);
+function sub(){
+    //TODO: Implementar subtração
+}
 
-function mult() {
+function mult(){
     //TODO: Implementar multiplicação
 }
 
-function div() {
+function div(){
     //TODO: Implementar divisão
 }
