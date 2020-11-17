@@ -3,9 +3,9 @@ function sum() {
 } console.log(soma);
 
 
-function sub() {
-    soma = n1 - n2;
-} console.log(soma);
+function sub(){
+    //TODO: Implementar subtração
+}
 
 function mult(){
     //TODO: Implementar multiplicação
