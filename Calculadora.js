@@ -11,6 +11,6 @@ function Mult() {
     soma = n1 * n2;
 } console.log(soma);
 
-function div(){
-    //TODO: Implementar divisão
-}
+function div () {
+    soma = n1 / n2;
+} console.log(soma);
