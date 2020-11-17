@@ -4,8 +4,8 @@ function sum() {
 
 
 function sub(){
-    //TODO: Implementar subtração
-}
+    soma = n1 +n2;
+} console.log(soma);
 
 function Mult() {
     soma = n1 * n2;
