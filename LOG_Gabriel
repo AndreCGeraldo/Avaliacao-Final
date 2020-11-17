@@ -1,0 +1,85 @@
+1  git --
+    2  git --version
+    3  git init
+    4  ls
+    5  ls -la
+    6  touch.txt
+    7  git status
+    8  cd/
+    9  git cd/
+   10  git config --global user.name "Gabriel Geraldo"
+   11  git config --global user.email "gabrielcruz20013@gmail.com"
+   12  git config --list
+   13  git status
+   14  git init
+   15  git status
+   16   package.json
+   17   git add .
+   18  git stats
+   19  git status
+   20  git status
+   21  ls
+   22  git status
+   23  git status
+   24  git init
+   25  git status
+   26  git add .json
+   27  git status
+   28  git add Personagem.ts
+   29  git status
+   30  git add Package-ock.json
+   31  git add tsconfig.json
+   32  git status
+   33  git status
+   34  sl
+   35  ls
+   36  git status
+   37  ls
+   38  git init
+   39  git status
+   40  git add .
+   41  git status
+   42  git moje -t
+   43  npm i -g gitmoji-cli
+   44  gitmoji -c
+   45  git status
+   46  git log
+   47  git status
+   48  git clone https://github.com/AndreCGeraldo/Avaliacao-Final.git
+   49  cd Avaliacao-Final/
+   50  git status
+   51  git checkout feature/Mult
+   52  git checkout feature/Sum
+   53  git branchs
+   54  git branch
+   55  git checkout master
+   56  git checkout feature/Mult
+   57  git push
+   58  git checkout feature/Sum
+   59  git checkout master
+   60  git checkout -b feature/Mult
+   61  git status
+   62  git add .
+   63  git status
+   64  npx gitmoji -c
+   65  git push
+   66  git push --set-upstream origin feature/Mult
+   67  git checkout master
+   68  git checkout -b feature/Div
+   69  git status
+   70  git add.
+   71  git add .
+   72  git status
+   73  npx gitmoji -c
+   74  git push
+   75  git push --set-upstream origin feature/Div
+   76  git checkout master
+   77  historico
+   78  historico -c
+   79  história
+   80  git checkout -b feature/Log_Gabriel
+   81  history > LOG_Gabriel Geraldo
+   82  log
+   83  git log
+   84  git log
+   85  history
